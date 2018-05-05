@@ -1,0 +1,18 @@
+1. pip install Django
+
+Installs Django, it makes installing Python software packages as easy as issuing just this command.
+
+2. pip list
+This command lists all the installed packages with version details.
+
+3. pip freeze
+Output installed packages in requirements format.
+
+4. pip show Django
+Outputs details of the Django.
+
+5. pip uninstall Django
+removes this package
+
+6. pip show Flask
+outputs the results having "flask" term.
